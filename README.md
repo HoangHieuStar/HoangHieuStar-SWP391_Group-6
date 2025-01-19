@@ -34,9 +34,9 @@ git branch -M main
 git push -u origin main
 ( 2 lệnh này để tạo nhánh main, và upcode lên main, sau tạo nhánh phụ nào thì tạo từ main ra)
 
----------------------------
-Đối với thành viên (User B): 
 
+Đối với thành viên (User B): 
+---------------------------
 B0: Tạo acc trên GitHub 
 
 B1: Tạo bản sao từ trên GitHub xuống:
@@ -49,6 +49,7 @@ git clone https://github.com/username/repo-name.git
 Tình huống 2: User B update code, User A nhận code update
 ------------------------------
 Đối với người up code (User B):
+------------------------------
 B1: Thêm cái mà mình update từ local của User B lên Git:
 git add tên_tệp ( sài hết thì " git add . " )
 
