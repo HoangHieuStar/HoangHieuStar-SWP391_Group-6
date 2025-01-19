@@ -6,6 +6,7 @@ B0: Tạo acc trên GitHub (nếu là leader thì tạo repo để lấy link ch
 
 B1: Tải Git về
 B2: Check the version of git: git --version
+
 B3: Set up trên terminal:
 git config --global user.name "Dev name"    (thay dev name bằng tên acc github)
 git config --global user.email "Dev email"    (thay dev email bằng tên email liên kết vs git đó)
