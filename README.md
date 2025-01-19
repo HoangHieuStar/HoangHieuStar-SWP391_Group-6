@@ -60,6 +60,7 @@ B3: Đẩy nó lên nhánh nào đó:
 git push origin main
 
 B4: Lên git mở tệp ra ktra xem nó update file chưa, nếu chưa thì lại bước 1
+
 -----------------------------------
 - Đối với người nhận code (User A):
 -----------------------------------
