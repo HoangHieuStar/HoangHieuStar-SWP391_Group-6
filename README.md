@@ -1,4 +1,5 @@
 Các bước dùng lệnh tương tác với Git:
+-------------------------------------
 
 Tình huống 1: User A tạo repo, User B kết nối
 ---------------------------------------------
@@ -68,3 +69,13 @@ B1: Lấy code từ Git về local của User A
 git pull 
 
 B2: Vô file ktra xem đã update chưa, chưa làm lại bước 1
+
+
+Quy trình làm code trên git:
+----------------------------
+B1: Làm code xong thì tạo branch 
+B2: Các User tạo branch (nhánh) riêng của mình để up-code mình lên
+B3: Úp code lên theo như các tình huống nêu trên
+B4: Sau khi cả nhóm ktra không lỗi, merge code vào nhánh main
+
+*Branch là tính năng nhánh trong Git, giảm khả năng hỏng code vào nhánh main !!!
