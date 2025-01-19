@@ -59,8 +59,10 @@ B3: Đẩy nó lên nhánh nào đó:
 git push origin main
 
 B4: Lên git mở tệp ra ktra xem nó update file chưa, nếu chưa thì lại bước 1
---------------------------------
-Đối với người nhận code (User A):
 
+Đối với người nhận code (User A):
+--------------------------------
 B1: Lấy code từ Git về local của User A
 git pull 
+
+B2: Vô file ktra xem đã update chưa, chưa làm lại bước 1
