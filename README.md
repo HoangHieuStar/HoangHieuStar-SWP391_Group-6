@@ -1,8 +1,9 @@
 Code of all members in Group 6 upload here
 
 /*
+Đối với người tạo project/repo:
 
-B0: Tạo acc trên GitHub (nếu là leader thì tạo repo để lấy link cho B6)
+B0: Tạo acc trên GitHub (tạo repo để lấy link cho B6)
 
 B1: Tải Git về
 
@@ -31,4 +32,14 @@ B9:
 git branch -M main
 git push -u origin main
 ( 2 lệnh này để tạo nhánh main, và upcode lên main, sau tạo nhánh phụ nào thì tạo từ main ra)
+
+*/
+
+/*
+Đối với thành viên: 
+B0: Tạo acc trên GitHub 
+
+B1: Tạo bản sao từ trên GitHub xuống:
+git clone https://github.com/username/repo-name.git  
+(cái url phải có đuôi .git nhé)
 */
