@@ -5,6 +5,7 @@ Code of all members in Group 6 upload here
 B0: Tạo acc trên GitHub (nếu là leader thì tạo repo để lấy link cho B6)
 
 B1: Tải Git về
+
 B2: Check the version of git: git --version
 
 B3: Set up trên terminal:
