@@ -1,7 +1,7 @@
 Các bước dùng lệnh tương tác với Git:
 
 Tình huống 1: User A tạo repo, User B kết nối
-
+-------------------------------------------
 Đối với Leader tạo project/repo (User A): 
 
 B0: Tạo acc trên GitHub (tạo repo để lấy link cho B6)
@@ -34,7 +34,7 @@ git branch -M main
 git push -u origin main
 ( 2 lệnh này để tạo nhánh main, và upcode lên main, sau tạo nhánh phụ nào thì tạo từ main ra)
 
-
+---------------------------
 Đối với thành viên (User B): 
 
 B0: Tạo acc trên GitHub 
@@ -47,7 +47,7 @@ git clone https://github.com/username/repo-name.git
 
 
 Tình huống 2: User B update code, User A nhận code update
-
+------------------------------
 Đối với người up code (User B):
 B1: Thêm cái mà mình update từ local của User B lên Git:
 git add tên_tệp ( sài hết thì " git add . " )
@@ -59,7 +59,7 @@ B3: Đẩy nó lên nhánh nào đó:
 git push origin main
 
 B4: Lên git mở tệp ra ktra xem nó update file chưa, nếu chưa thì lại bước 1
-
+--------------------------------
 Đối với người nhận code (User A):
 
 B1: Lấy code từ Git về local của User A
