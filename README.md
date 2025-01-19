@@ -1,6 +1,7 @@
 Code of all members in Group 6 upload here
 
 /*
+
 B0: Tạo acc trên GitHub (nếu là leader thì tạo repo để lấy link cho B6)
 
 B1: Tải Git về
@@ -19,4 +20,6 @@ git remote add origin https://github.com/username/repo-name.git
 B7: Check trạng thái file mình upload trên git:
 git add tên_tệp
 (nếu muốn up lên hết thì thay = " git add .  " )
+
+
 */
