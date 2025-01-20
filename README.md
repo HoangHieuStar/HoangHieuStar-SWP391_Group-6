@@ -40,7 +40,10 @@ git push -u origin main
 -----------------------------
 B0: Tạo acc trên GitHub 
 
-B1: Tạo bản sao từ trên GitHub xuống:
+B1: Tạo dc folder ẩn:
+git init
+
+B2: Tạo bản sao từ trên GitHub xuống:
 git clone https://github.com/username/repo-name.git  
 (cái url phải có đuôi .git nhé)
 
